@@ -1,3 +1,8 @@
+-- Description : SQL script to compute product revenue metrics for dashboard visualization
+-- Project     : Revenue Metrics Dashboard
+-- Author      : Anna Darda
+-- Date        : June 2025
+
 -- CTE: Base data with payment and user info, including first/last payment dates
 with cte_base_data as (
 	select 
