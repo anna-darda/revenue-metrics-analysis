@@ -87,6 +87,8 @@ The dashboard reveals a steady increase in both Monthly Recurring Revenue and th
 
 - [`revenue_metrics.sql`](revenue_metrics.sql) — SQL query used to generate all metrics
 - [`screenshots/Revenue_Metrics_Dashboard.png`](screenshots/Revenue_Metrics_Dashboard.png) — dashboard screenshot
+- [`datasets/games_paid_users.csv`](datasets/games_paid_users.csv) — synthetic user data
+- [`datasets/games_payments.csv`](datasets/games_payments.csv) — synthetic payment transaction data
 
 ---
 
@@ -101,7 +103,7 @@ The dashboard reveals a steady increase in both Monthly Recurring Revenue and th
 
 ### 📬 Notes
 
-The dataset used in this project is synthetic and was created for educational demonstration purposes.  
+The datasets used in this project (`games_paid_users.csv` and `games_payments.csv`) are synthetic and were created for educational demonstration purposes.  
 The results are intended to demonstrate proficiency in working with SQL-based metric calculation and dashboard design principles suitable for product analytics scenarios.
 
 Thank you for reviewing this project! Feel free to explore the files above to understand the full structure and insights of the analysis.
